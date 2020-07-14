@@ -7,7 +7,7 @@
     "resource": "Number of Ventilators available",
     "total": 4,
     "available": 5,
-    "unit": 'kg'
+    "unit": "kg"
   }, {
     "id": 3,
     "resource": "N95 Masks",
@@ -33,7 +33,7 @@
     "resource": "Bleaching Powder",
     "total": 0,
     "available": 8,
-    "unit": 'mg'
+    "unit": "mg"
   }, {
     "id": 8,
     "resource": "Sodium Hypochlorite",
@@ -59,7 +59,7 @@
     "resource": "Viral Transport Medium",
     "total": 4,
     "available": 23,
-    "unit": 'g'
+    "unit": "g"
   }, {
     "id": 13,
     "resource": "Swap Sticks",
@@ -70,11 +70,11 @@
     "resource": "3 Layer packing Mask",
     "total": 4,
     "available": 3,
-    "unit": 'tonne'
+    "unit": "tonne"
   }, {
     "id": 15,
     "resource": "Ice Gel Pack",
     "total": 4,
-    "unit": 'MT'
+    "unit": "MT"
   }]
 }
