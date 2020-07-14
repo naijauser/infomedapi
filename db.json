@@ -1,9 +1,7 @@
 {
   "inventory": [{
     "id": 1,
-    "resource": "Hospital Bed Occupancy",
-    // total: 4,s
-    // available: 43
+    "resource": "Hospital Bed Occupancy"
   }, {
     "id":2,
     "resource": "Number of Ventilators available",
@@ -77,7 +75,6 @@
     "id": 15,
     "resource": "Ice Gel Pack",
     "total": 4,
-    // "available": 63,
     "unit": 'MT'
   }]
 }
