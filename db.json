@@ -1,65 +1,80 @@
 {
   "inventory": [{
+    "id": 1,
     "resource": "Hospital Bed Occupancy",
     // total: 4,s
     // available: 43
   }, {
+    "id":2,
     "resource": "Number of Ventilators available",
     "total": 4,
     "available": 5,
     "unit": 'kg'
   }, {
+    "id": 3,
     "resource": "N95 Masks",
     "total": 4,
     "available": 7
   }, {
+    "id": 4,
     "resource": "3 Layer Mask",
     "total": 76,
     "available": 34
   }, {
+    "id": 5,
     "resource": "PPE Kit",
     "total": 6,
     "available": 11
   }, {
+    "id": 6,
     "resource": "Sanitizer",
     "total": 8,
     "available": 13
   }, {
+    "id": 7,
     "resource": "Bleaching Powder",
     "total": 0,
     "available": 8,
     "unit": 'mg'
   }, {
+    "id": 8,
     "resource": "Sodium Hypochlorite",
     "total": 4,
     "available": 14
   }, {
+    "id": 9,
     "resource": "Chemical Gloves",
     "total": 4,
     "available": 10
   }, {
+    "id": 10,
     "resource": "Infrared Thermometer",
     "total": 4,
     "available": 8
   }, {
+    "id": 11,
     "resource": "Handwash",
     "total": 4,
     "available": 5
   }, {
+    "id": 12,
     "resource": "Viral Transport Medium",
     "total": 4,
     "available": 23,
     "unit": 'g'
   }, {
+    "id": 13,
     "resource": "Swap Sticks",
     "total": 4,
     "available": 73
   }, {
+    "id": 14,
     "resource": "3 Layer packing Mask",
     "total": 4,
     "available": 3,
     "unit": 'tonne'
   }, {
+    "id": 15,
     "resource": "Ice Gel Pack",
     "total": 4,
     // "available": 63,
