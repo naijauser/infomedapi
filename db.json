@@ -1,0 +1,68 @@
+{
+  "inventory": [{
+    "resource": "Hospital Bed Occupancy",
+    // total: 4,s
+    // available: 43
+  }, {
+    "resource": "Number of Ventilators available",
+    "total": 4,
+    "available": 5,
+    "unit": 'kg'
+  }, {
+    "resource": "N95 Masks",
+    "total": 4,
+    "available": 7
+  }, {
+    "resource": "3 Layer Mask",
+    "total": 76,
+    "available": 34
+  }, {
+    "resource": "PPE Kit",
+    "total": 6,
+    "available": 11
+  }, {
+    "resource": "Sanitizer",
+    "total": 8,
+    "available": 13
+  }, {
+    "resource": "Bleaching Powder",
+    "total": 0,
+    "available": 8,
+    "unit": 'mg'
+  }, {
+    "resource": "Sodium Hypochlorite",
+    "total": 4,
+    "available": 14
+  }, {
+    "resource": "Chemical Gloves",
+    "total": 4,
+    "available": 10
+  }, {
+    "resource": "Infrared Thermometer",
+    "total": 4,
+    "available": 8
+  }, {
+    "resource": "Handwash",
+    "total": 4,
+    "available": 5
+  }, {
+    "resource": "Viral Transport Medium",
+    "total": 4,
+    "available": 23,
+    "unit": 'g'
+  }, {
+    "resource": "Swap Sticks",
+    "total": 4,
+    "available": 73
+  }, {
+    "resource": "3 Layer packing Mask",
+    "total": 4,
+    "available": 3,
+    "unit": 'tonne'
+  }, {
+    "resource": "Ice Gel Pack",
+    "total": 4,
+    // "available": 63,
+    "unit": 'MT'
+  }]
+}
