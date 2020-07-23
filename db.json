@@ -113,5 +113,14 @@
     "phone": "(254)954-1289",
     "designation": "admin"
   }
+],
+"hospital_address": [
+  {
+    "id": 1
+    "street": "10 Delhi House Mumbai India",
+    "city": "dehli",
+    "zip": 123456,
+    "country": "india"
+  }
 ]
 }
