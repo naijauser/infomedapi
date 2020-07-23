@@ -116,7 +116,7 @@
 ],
 "hospital_address": [
   {
-    "id": 1
+    "id": 1,
     "street": "10 Delhi House Mumbai India",
     "city": "dehli",
     "zip": 123456,
